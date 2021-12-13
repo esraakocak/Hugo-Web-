@@ -1,6 +1,6 @@
 {
-  "name": "Blog Sitesi",
-  "short_name": "Blog Sitesi",
+  "name": "API Documentation",
+  "short_name": "API Documentation",
   "start_url": "/Hugo-Web-/",
   "scope": "/Hugo-Web-/",
   "display": "standalone",
