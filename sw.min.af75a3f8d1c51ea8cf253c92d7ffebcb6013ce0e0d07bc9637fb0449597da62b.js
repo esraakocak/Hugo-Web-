@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/Hugo-Web-/sw.js",{scope:"/Hugo-Web-/"})
