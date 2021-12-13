@@ -1,4 +1,0 @@
-
-## Kurulum dosyası eklenicek.
-
-
