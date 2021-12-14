@@ -54,18 +54,57 @@ It is a long established fact that a reader will be distracted by the readable c
 
 - - -
 
-## Tablo deneme 
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-- - -
-
 # Properties
 
--ıd
+
+{{< columns >}}
+-id
+
+<---> 
+
+
+string
+Account ID.
+
+ ------------
+<---> 
+
+{{< /columns >}}
+
+
+
+
+{{< columns >}}
+-id
+
+<--->
+ 
+
+string
+Account ID.
+ 
+
+------------
+<---> 
+
+ 
+{{< /columns >}}
+
+
+{{< columns >}}
+
+-id
+
+<---> 
+
+
+string
+Account ID.
+
+ ------------
+<---> 
+
+{{< /columns >}}
 
 - - - 
 
